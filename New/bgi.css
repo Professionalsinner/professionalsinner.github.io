@@ -1,0 +1,44 @@
+body{
+	font-family: 'Comic Neue', cursive;
+	background: #F3E287;
+	border: #999 solid 5px;
+}
+header{
+	text-align: center;
+	background-color: #E4F387;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: black solid 1px;
+}
+header h1{
+	font-size: 80px;	
+	font-family: 'Rock Salt', cursive;
+}
+main{
+	background-color: #87F3CA;
+}
+.sign-up-form{
+	width: 300px;
+	box-shadow: 0 0 3px 0;
+	background: white;
+	padding: 20px;
+	text-align: center;
+	margin: 2% auto 0;
+}
+.disclaimer{
+	text-align: center;
+	border: black solid 1px;
+	background: skyblue;
+}
+main{
+	border: black solid 1px;
+	padding: 5px;
+}
+.input-box{
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px 0;
+	width: 80%;
+	border: 1px solid #999;
+	outline: none;
+}
